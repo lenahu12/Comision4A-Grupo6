@@ -1,5 +1,11 @@
-# metodologiaSistemasGrupo6
-Chicos: hagan branches a partir de la main, mas tarde vemos lo del merge  
-creen branches con sus nombres!!
+# Comisión 4A - Grupo 6  
+
+## Integrantes
+
+### Leandro Nahuel Quintana
+### Leandro Celiz
+### Gustavo Ferreyra
+### Micaela Ferreira 
+### Lautaro Lagos
 
 
