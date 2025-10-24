@@ -1,2 +1,5 @@
 # metodologiaSistemasGrupo6
-Actividad de la clase a partir del 24/10
+Chicos: hagan branches a partir de la main, mas tarde vemos lo del merge
+creen branches con sus nombres!!
+
+
